@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://baggottsbots.github.io/ember-and-salt-restaurant/contact/</loc>
-    <lastmod>2026-08-24T06:18:10.201Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
     <loc>https://baggottsbots.github.io/ember-and-salt-restaurant/</loc>
-    <lastmod>2026-08-24T06:13:25.566Z</lastmod>
+    <lastmod>2026-08-24T06:22:10.186Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://baggottsbots.github.io/ember-and-salt-restaurant/menu/</loc>
-    <lastmod>2026-08-24T06:12:49.011Z</lastmod>
+    <lastmod>2026-08-24T06:21:05.312Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://baggottsbots.github.io/ember-and-salt-restaurant/contact/</loc>
+    <lastmod>2026-08-24T06:18:10.201Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
