@@ -2,31 +2,4 @@ html, body { min-height:100% !important; }
   body.es-contact-page { overflow-y:auto !important; overflow-x:hidden !important; touch-action:auto !important; overscroll-behavior-y:auto !important; -webkit-overflow-scrolling:touch !important; }
   body.es-contact-page * { box-sizing:border-box !important; }
   body.es-contact-page a { color:inherit !important; text-decoration:none !important; }
-  body.es-contact-page .es-contact-navlink:hover { opacity:.72; }
   body.es-contact-page .es-contact-button:hover { background:#d3b071 !important; border-color:#d3b071 !important; color:#17130e !important; }
-  @media (max-width: 900px) {
-    body.es-contact-page .es-contact-hero { grid-template-columns:1fr !important; }
-    body.es-contact-page .es-contact-hero-copy { min-height:420px !important; }
-    body.es-contact-page .es-contact-hero-info { border-left:0 !important; border-top:1px solid rgba(255,255,255,.10) !important; }
-    body.es-contact-page .es-contact-main-grid { grid-template-columns:1fr !important; }
-    body.es-contact-page .es-contact-arrival-grid { grid-template-columns:1fr !important; }
-    body.es-contact-page .es-contact-footer-grid { grid-template-columns:1fr !important; }
-  }
-  @media (max-width: 700px) {
-    body.es-contact-page .es-contact-header { padding:14px 18px !important; }
-    body.es-contact-page .es-contact-brand-name { font-size:10px !important; letter-spacing:.22em !important; }
-    body.es-contact-page .es-contact-navlink { display:none !important; }
-    body.es-contact-page .es-contact-reserve { padding:10px 13px !important; min-height:44px !important; }
-    body.es-contact-page .es-contact-hero-copy { min-height:360px !important; padding:34px 22px !important; }
-    body.es-contact-page .es-contact-hero-info { padding:26px 22px !important; }
-    body.es-contact-page .es-contact-section { padding:54px 20px !important; }
-    body.es-contact-page .es-contact-title { font-size:clamp(38px,13vw,58px) !important; }
-    body.es-contact-page .es-contact-section-title { font-size:clamp(34px,10vw,46px) !important; }
-    body.es-contact-page .es-contact-form-frame { min-height:920px !important; height:920px !important; }
-    body.es-contact-page .es-contact-footer { padding:30px 20px 40px !important; }
-  }
-  @media (min-width: 1600px) {
-    body.es-contact-page .es-contact-shell { max-width:1440px !important; }
-    body.es-contact-page .es-contact-title { font-size:82px !important; }
-    body.es-contact-page .es-contact-section { padding-left:72px !important; padding-right:72px !important; }
-  }
